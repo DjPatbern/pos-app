@@ -30,10 +30,10 @@ code {
 }
 
 .logo{
-  color: white;
+  color: rgb(2, 85, 162);
   font-weight: bolder;
   padding: 10px;
-  border: 2px solid white;
+  background-color: white;
   border-radius: 10px;
 }
 
