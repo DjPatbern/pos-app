@@ -9,7 +9,7 @@ function MainLayout({children}) {
       <header>
         <nav className="navbar bg-primary">
           <div className="container">
-            <Link className="navbar-brand logo">SH⭐NICE STORES</Link>
+            <Link to='/' className="navbar-brand logo">SH⭐NICE STORES</Link>
           </div>
         </nav>
       </header>
